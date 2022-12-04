@@ -1,0 +1,4 @@
+site_name: Sesamath - Plone
+site_dir: ../sesamath-plone
+repo_url: https://github.com/CGS-Open/sesamath-plone-docs-src/
+edit_uri_template: 'blob/main/docs/{path}'
