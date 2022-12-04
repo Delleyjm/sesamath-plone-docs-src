@@ -1,10 +1,8 @@
 # Documentation de Plone pour Sesamath
 
-Documentation de Plone par et pour les contributeurs de l'association Sesamath.ch.
+Documentation de [Plone](https://plone.org) par et pour les contributeurs de l'association Sesamath.ch.
 
 ## Comprendre Plone
-
-### Plone vs. WordPress
 
 TODO...
 
